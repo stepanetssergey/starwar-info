@@ -7,7 +7,7 @@ class Menu:
                     Show starships [ 3 ]
                    """
     menu_items = {
-        '1': 'Show personage',
+        '1': 'Input personage name (or Enter for list of personages):',
         '2': 'Show planets',
         '3': 'Show starships',
         'not_correct': 'Code is not correct!!!'
